@@ -57,7 +57,7 @@ const Navbar = () => {
                   <a
                     type="button"
                     href="tel:+525540854434"
-                    className="relative inline-flex items-center gap-x-1.5 rounded-md bg-brown px-3 py-2 text-sm font-semibold text-white shadow-sm hover:bg-beige focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600"
+                    className="relative inline-flex items-center gap-x-1.5 rounded-md bg-brown px-3 py-2 text-sm font-semibold text-white shadow-sm focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600"
                   >
                     <PhoneIcon className="-ml-0.5 h-5 w-5" aria-hidden="true" />
                     Contáctanos
