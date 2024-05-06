@@ -8,6 +8,14 @@ const config: Config = {
   ],
   theme: {
     extend: {
+      colors: {
+        white: "#ffffff",
+        transparent: "transparent",
+        black: "#000000",
+        beige: "#F3EEE7",
+        cream: "#FAF6F2",
+        brown: "#6C4E3F",
+      },
     },
   },
   plugins: [],

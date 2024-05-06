@@ -1,8 +1,8 @@
 import type { Metadata } from "next";
-import { Noto_Serif } from "next/font/google";
+import { Open_Sans } from "next/font/google";
 import "./globals.css";
 
-const notoSerif = Noto_Serif({ subsets: ["latin"] });
+const openSans = Open_Sans({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "Acapulco Nuptials",
@@ -21,7 +21,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="es">
-      <body className={notoSerif.className}>{children}</body>
+      <body className={openSans.className}>{children}</body>
     </html>
   );
 }
