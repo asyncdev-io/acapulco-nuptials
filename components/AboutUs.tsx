@@ -5,7 +5,7 @@ import SectionTitle from "./SectionTitle";
 const AboutUs = () => {
   return (
     <SectionContainer id="about-us">
-      <SectionTitle title="Nosotros" />
+      <SectionTitle title="NOSOTROS" />
       <p>
         Acapulco Nuptials sabe que todos los eventos son únicos e irrepetibles,
         es por ello que para poder ofrecer a sus clientes la máxima calidad, es

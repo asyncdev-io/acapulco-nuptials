@@ -1,3 +1,5 @@
+import SectionTitle from "./SectionTitle";
+
 const navigation = {
   main: [
     { name: "Nosotros", href: "#about-us" },
@@ -88,6 +90,7 @@ export default function Footer() {
   return (
     <footer className="bg-white relative">
       <div className="mx-auto max-w-7xl overflow-hidden px-6 py-10 sm:py-20 lg:px-8">
+        <SectionTitle title="CONTÁCTANOS" />
         <nav
           className="-mb-6 columns-1 md:columns-2 sm:flex sm:justify-center sm:space-x-12"
           aria-label="Footer"

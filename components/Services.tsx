@@ -5,7 +5,7 @@ import SectionTitle from "./SectionTitle";
 const Services = () => {
   return (
     <SectionContainer id="services">
-      <SectionTitle title="Servicios" />
+      <SectionTitle title="SERVICIOS" />
       <p>
         Banquetería personalizada con opción Kosher Bebidas, vinos y licores
         Renta de Mobiliario y montaje de vanguardia Decoracione Renta de Menaje,

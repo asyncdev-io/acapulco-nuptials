@@ -7,8 +7,8 @@ import Image from "next/image";
 const Menu = () => {
   return (
     <SectionContainer id="menu">
-      <SectionTitle title="Menú" />
-      <div className="flex flex-col items-center space-y-4 md:flex-row w-full h-[300px] justify-between md:space-x-4 p-4">
+      <SectionTitle title="MENÚ" />
+      <div className="flex flex-col items-center space-y-4 md:flex-row w-full h-[300px] justify-between md:space-x-4">
         <p className="w-full self-center text-base md:text-2xl">
           La experiencia hace al maestro:{" "}
           <span className="text-brown">Acapulco Nuptials</span> sabe como
