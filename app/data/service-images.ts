@@ -1,7 +1,7 @@
 export const serviceImages = [
   {
     img: "/services/banquete.jpg",
-    text: "Banquetería diversonalizada con opción Kosher",
+    text: "Banquetería personalizada con opción Kosher",
   },
   {
     img: "/services/dance-floor-2.jpg",
@@ -17,7 +17,7 @@ export const serviceImages = [
   },
   {
     img: "/services/plates.jpg",
-    text: "Renta de menaje, vailla, loza y material",
+    text: "Renta de menaje, vajilla, loza y material",
   },
   {
     img: "/services/wine.jpg",
