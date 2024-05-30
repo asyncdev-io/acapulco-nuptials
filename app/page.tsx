@@ -9,7 +9,7 @@ import { images } from "./data/images";
 
 export default function Home() {
   return (
-    <main className="w-full h-full opacity-0">
+    <main className="w-full h-full">
       <Navbar />
       <Hero />
       <AboutUs />
